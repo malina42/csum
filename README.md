@@ -7,6 +7,6 @@ WIP so demo mode. but should be good enough for fun hashing ,)
 forgot to add. csum.b3:
 
 
+oops. hardcoded threads and when porting older work into this , I forgot to sort out a overlapping scheduler. 
 
-%CSUM_HASH_ID% b3 256
-1f16932a8b9ac9f5001bcfb606ff559177ea88af0147f330c0d5bd7032a44e09  csum
+Will re-up soon
