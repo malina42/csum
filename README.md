@@ -1,3 +1,11 @@
+P.S. DOn't use these. I have them as placeholders. I idntified last minutr 'regressions'
+which are real, when dealing with small vs large files, many an few etc. findiing the right 
+"scheduler" algorithm for all these cases in a 'default' runtime isn't entirely trivial 
+(but has nothing to do with the hashing algorithms, themselves.
+
+this one is a SLOW version I re-upped just due to leak. this one isn't even fast.
+
+
 checksummer that goes vroom vroom.
 
 b3,b3b,b3bp,sha256,sha512,sha3_224.
